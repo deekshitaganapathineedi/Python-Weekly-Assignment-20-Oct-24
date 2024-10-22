@@ -1,0 +1,4 @@
+abc@example.com
+invalid-email
+xyz@domain
+uvw@world.com
